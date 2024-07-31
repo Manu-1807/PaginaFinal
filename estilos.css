@@ -12,7 +12,31 @@
      
 }
 body{
+  
     background-image: url("fondo.jpg");
-    background-repeat: 
+    background-repeat:
+
+}
+.titulo{ 
+font: size 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+height: 600px;
+width: 1100px;
+background-image: url("circuito.webp");
+}
+.img2{
+    height: 600px;
+    width: 600px;
+    background-image: url("punto\ 2\ img\ 1.jpg");
+    background-repeat: no-repeat;
+
+}
+.img3{
 
 }
