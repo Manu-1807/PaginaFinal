@@ -64,6 +64,11 @@ background-image: url("circuito.webp")
 }
 .img7{
     height: 400px;
-    width:  600px;
+    width:  800px;
     background-image: url(estiloVida_introduccion.png);
+}
+.img8{
+    height: 1100px;
+    width: 1750px;
+    background-image: url(IMG.1sociales.png);
 }
