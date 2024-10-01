@@ -72,3 +72,17 @@ background-image: url("circuito.webp")
     width: 1750px;
     background-image: url(IMG.1sociales.png);
 }
+
+.imgexcel{
+    height: 500px;
+    width: 500px;
+    background-image: url("tencnologia3\ f\ en\ ecxel.jpg");
+    background-repeat: no-repeat;
+
+}
+.imgformulas{
+    height: 600px;
+    width: 400px;
+    background-image: url("tecnologia3formula.png");
+    background-repeat: no-repeat;
+}
