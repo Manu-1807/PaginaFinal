@@ -86,3 +86,25 @@ background-image: url("circuito.webp")
     background-image: url("tecnologia3formula.png");
     background-repeat: no-repeat;
 }
+.imginicio{
+width: 900px;
+height: 950px;
+background-image: url(Logo.webp);
+text-align: center;
+
+
+}
+.imgmanu{
+width: 900px;
+height: 950px;
+background-image: url(imgmanu.webp);
+text-align: center;
+}
+.imgxime{
+width: 900px;
+height: 950px;
+background-image: url(imgxime.webp);
+text-align: center;
+}
+
+
