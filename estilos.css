@@ -14,9 +14,9 @@
 body{
   
     background-image: url("fondo.jpg");
-    background-repeat:
 
 }
+
 .titulo{ 
 font: size 60px;
 color: black;
@@ -72,39 +72,3 @@ background-image: url("circuito.webp")
     width: 1750px;
     background-image: url(IMG.1sociales.png);
 }
-
-.imgexcel{
-    height: 500px;
-    width: 500px;
-    background-image: url("tencnologia3\ f\ en\ ecxel.jpg");
-    background-repeat: no-repeat;
-
-}
-.imgformulas{
-    height: 600px;
-    width: 400px;
-    background-image: url("tecnologia3formula.png");
-    background-repeat: no-repeat;
-}
-.imginicio{
-width: 900px;
-height: 950px;
-background-image: url(Logo.webp);
-text-align: center;
-
-
-}
-.imgmanu{
-width: 900px;
-height: 950px;
-background-image: url(imgmanu.webp);
-text-align: center;
-}
-.imgxime{
-width: 900px;
-height: 950px;
-background-image: url(imgxime.webp);
-text-align: center;
-}
-
-
